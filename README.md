@@ -1,4 +1,4 @@
-## [Qiuz-App-in-JavaScript] (https://musharafali07.github.io/Qiuz-App-in-JavaScript/)
+## [Qiuz-App-in-JavaScript](https://musharafali07.github.io/Qiuz-App-in-JavaScript/)
 
  ## HTML
  ## CSS
